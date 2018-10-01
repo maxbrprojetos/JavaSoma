@@ -1,8 +1,9 @@
 
-public class ProgramSoma {
+public class ProgramaSoma {
 	static void soma(int a, int b){
-		int resultado = a+b;
-		System.out.println("O resultado da soma é: "+resultado);
+		int resultado;
+		resultado = a+b;
+		System.out.println("O resultado da soma Ã©: "+resultado);
 	}
 	
 	public static void main(String [] args){
